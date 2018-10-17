@@ -1,2 +1,2 @@
-
-print("hello python")
+for i in range(1,11) :
+    print("hello python!!")
